@@ -1,4 +1,4 @@
-# HYDERKS Optimizer — Ferramentas de organização, monitoramento e ajustes para Windows
+# HYDERKS Optimizer — Ferramentas de organização, monitoramento, aumento de fps e ajustes para Windows em geral
 
 > Uma central para quem quer entender melhor o desempenho do próprio PC, organizar perfis por jogo e acompanhar métricas durante jogos, estudos e tarefas exigentes.
 
